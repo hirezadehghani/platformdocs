@@ -42,7 +42,7 @@ Currently, the Drools Rule (http://www.drools.org/) language is used for specify
 Game Tasks
 ~~~~~~~~~~~~
 
-The task defines a periodically scheduled internal actions and their characteristics. A typical example of the game task is the classification task, where for some specific type of points the activity is triggered on a fixed schedule (e.g., daily) to incentivate best users.
+The task defines a periodically scheduled internal actions and their characteristics. A typical example of the game task is the classification task, where for some specific type of points the activity is triggered on a fixed schedule (e.g., daily) to incentivize the best users.
 
 
 Gamification Engine Tools
@@ -50,7 +50,7 @@ Gamification Engine Tools
 
 The functionality of the Gamification Engine is made available via two key modules:
 
-- Gamification Engine API: allows for interacting with the engine programmatically, e.g., to get information about the lidearboard, the user game status, triggering actions, readling notifications, etc.
+- Gamification Engine API: allows for interacting with the engine programmatically, e.g., to get information about the leaderboard, the user game status, triggering actions, reading notifications, etc.
 - Gamification Engine Management API: the set of API interfaces for creating and managing game rules, concepts, and definitions.
 - Gaimification Engine Console: the administration UI for accessing the management functionality of the engine
 - Gamification Status Console: the UI for accessing and visualizing the current state of  the game, the users, and for performing some of the operations directly on the game data.
